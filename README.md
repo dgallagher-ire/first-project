@@ -1,6 +1,6 @@
-# first-project
-First test of github
+# Getting Started with GitHub
 
 
 Download
+
 https://git-scm.com/
