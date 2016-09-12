@@ -13,4 +13,9 @@ RedShift SQL Client
 
 http://www.sql-workbench.net/
 
+Redshift JDBC Driver
+
+http://docs.aws.amazon.com/redshift/latest/mgmt/configure-jdbc-connection.html#download-jdbc-driver
+
+
 
