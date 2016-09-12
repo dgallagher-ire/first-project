@@ -1,6 +1,10 @@
 # Getting Started with GitHub
 
 
-Download
+Download & Install
 
 https://git-scm.com/
+
+Download & Install
+
+https://tortoisegit.org/download/
